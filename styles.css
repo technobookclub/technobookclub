@@ -3,16 +3,19 @@ a:link    {
   background-color:transparent; 
   text-decoration:underline;
 }
+
 a:visited {
   color:#000000;
   background-color:transparent; 
   text-decoration:underline;
-  }
+}
+  
 a:hover   {
   color:#000000;
   background-color:transparent;
   text-decoration:none;
 }
+
 a:active  {
   color:#FF0000;
   background-color:transparent;
@@ -47,4 +50,4 @@ ul {
 li {
   padding: 0px 20px;  
 }
-}
+
