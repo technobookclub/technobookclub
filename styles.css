@@ -54,6 +54,10 @@ li {
   padding: 8px 0px;  
 }
 
+table {
+  border-color: #999;
+}
+
 .technotable {
   border: 1px dotted #CCC;
   border-collapse: collapse;
