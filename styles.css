@@ -33,6 +33,10 @@ body {
   line-height: 1.625;
 }
 
+pre {
+  font-size: 50%;
+}
+
 main {
   margin: 0px 5px 0px 5px;
   /*margin: 0px auto;*/
