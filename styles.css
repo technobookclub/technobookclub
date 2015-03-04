@@ -55,15 +55,10 @@ li {
 }
 
 table {
-  border-color: #999;
-}
-
-.technotable {
-  border: 1px dotted #CCC;
+  border: 1px dotted #999;
   border-collapse: collapse;
 }
 
-.technotable th, .technotable td {
-  border: 1px dotted #CCC;
+table th, table td {
   padding: 0.5rem;
 }
