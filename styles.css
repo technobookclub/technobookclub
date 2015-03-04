@@ -41,5 +41,10 @@ main h1 {
 }
 
 ul {
-    list-style: disc outside;
+    list-style: circle inside;
+}
+
+li {
+  padding: 0px 20px;  
+}
 }
