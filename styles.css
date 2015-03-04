@@ -56,8 +56,10 @@ li {
 
 .technotable {
   border: 1px dotted #999;
+  border-collapse: collapse;
 }
 
 .technotable th, .technotable td {
   border: 1px dotted #999;
+  padding: 0.5rem;
 }
