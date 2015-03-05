@@ -59,11 +59,13 @@ li {
 }
 
 table {
-  border: 1px dotted #999;
+  /*border: 1px dotted #999;*/
+  border: none;
   border-collapse: collapse;
 }
 
 table th, table td {
-  border: 1px dotted #999;  
+  /*border: 1px dotted #999;  */
+  border: none;
   padding: 0.5rem;
 }
